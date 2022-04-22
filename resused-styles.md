@@ -5,3 +5,5 @@
 <a href="#" style="color: #2792ec; text-decoration: none; font-weight: 600; font-size: 14px;">Learn more</a>
 
 <h5 style="color: #333; padding: 0 0 0 15px; font-weight: 600; text-transform: uppercase; font-size: 14px;"></h5>
+
+<td style="color: #333; padding: 0 0 0 15px; font-weight: 600; text-transform: uppercase; font-size: 14px;">
